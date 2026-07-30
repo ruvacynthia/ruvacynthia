@@ -2,7 +2,11 @@
 <h3 align="center">Aspiring Data Scientist | MSc Data Analytics & Visualization, Yeshiva University</h3>
 
 <p align="center">
-I turn raw, messy data into decisions — from graph-based fraud detection to predictive models and analytics dashboards. Currently exploring where data science meets graph analytics and prescriptive decision-making.
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20%2F%20Data%20Scientist%20Roles-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+I find problems before they get expensive — turning messy data into decisions that catch issues early.
 </p>
 
 <p align="center">
@@ -19,11 +23,14 @@ I turn raw, messy data into decisions — from graph-based fraud detection to pr
 **[Graph-Based Fraud Detection System](https://github.com/ruvacynthia/graph-based-fraud-detection)**
 Modeled 15M+ transactions as a Neo4j graph to uncover a fraud network that evaded rule-based detection **99.81% of the time**, using Cypher and GDS algorithms (WCC, Louvain, PageRank).
 
-**[Data Science Portfolio](https://ruvacynthia.github.io/Cynthia/)**
-My full project portfolio — dashboards, ML models, and graph analytics work, with write-ups and live links.
+**[Chronic Disease Tracking & Analytics](https://github.com/ruvacynthia/Chronic-Disease-Tracking-System)**
+Designed an OLTP database and a dimensional data warehouse for chronic disease surveillance, with ETL pipelines moving data into a star schema and Tableau dashboards for outcome analysis.
 
 **[Flight Delay & Cancellation Analysis](https://github.com/ruvacynthia/Tableau-Dashboard-US-Flight-Delay-and-Cancellation-Analysis)**
 Tableau dashboard analyzing 500K+ flight records to identify delay root causes and the highest-risk carrier-route combinations by season.
+
+**[Full Data Science Portfolio](https://ruvacynthia.github.io/Cynthia/)**
+My complete project portfolio — dashboards, ML models, and graph analytics work, with write-ups and live links.
 
 ---
 
